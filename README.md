@@ -48,7 +48,6 @@ Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/
 
 # Rohit Kulkarni - Full Stack Developer Portfolio 
 
-#
 
 
 
